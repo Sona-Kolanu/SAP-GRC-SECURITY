@@ -1,6 +1,4 @@
-SAP SECURITY ensures Confidentiality,Integrity and Availability (CIA) of business data in SAP systems.It controls who can do what in the 
-
-system.(It ensures right access to the right user at the right time)
+SAP SECURITY ensures Confidentiality,Integrity and Availability (CIA) of business data in SAP systems.It controls who can do what in the system.(It ensures right access to the right user at the right time)
 
 # SAP SECURITY COMPONENTS
 
