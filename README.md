@@ -18,7 +18,8 @@ SAP has multiple modules,and are divided into FUNCTIONAL MODULES and TECHNICAL M
 
 3.MM(Material Management)
 
-4.SD(sales and distribution)                       
+4.SD(sales and distribution)    
+
 5.QM(Quality Management)                         
  
 6.PP(Production Planning)                          
