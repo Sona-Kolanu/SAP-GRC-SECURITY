@@ -10,23 +10,37 @@ It is an ERP (Enterprise,Resource,Planning) software used by organizations to ma
 
 SAP has multiple modules,and are divided into FUNCTIONAL MODULES and TECHNICAL MODULES
 
-# FUNCTIONAL MODULES                                   #TECHNICAL MODULES
+# FUNCTIONAL MODULES                                  
                                          
-1.FI(Finance Accounting)                           1.ABAP(Advance Business Application Programming)---Programming language of SAP
+1.FI(Finance Accounting)                         
 
-2.CO(Controlling)                                  2.BASIS(Business Application Software Integrated Solution)
+2.CO(Controlling)                              
 
-3.MM(Material Management)                          3.Security---Roles,authorizations,user access
+3.MM(Material Management)
 
-4.SD(sales and distribution)                       4.GRC(Governance,Risk & Compliance)--Risk analysis,access control,audit
-
-5.QM(Quality Management)                           5.HANA
+4.SD(sales and distribution)                       
+5.QM(Quality Management)                         
  
-6.PP(Production Planning)                          6.BI/BO
+6.PP(Production Planning)                          
 
 7.HCM(Human Capital Management)
 
 8.PM(Plant Maintenance)
+
+
+# TECHNICAL MODULES
+
+1.ABAP(Advance Business Application Programming)---Programming language of SAP
+
+2.BASIS(Business Application Software Integrated Solution)
+
+3.Security---Roles,authorizations,user access   
+
+4.GRC(Governance,Risk & Compliance)--Risk analysis,access control,audit
+
+5.HANA
+
+6.BI/BO
 
 ----> Functional modules deals with business process like finance,sales,hr and focus on business operations(What to do)
 
