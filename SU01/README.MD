@@ -20,3 +20,7 @@ Lock/Unlock user
 
 Reset password/Change password
 
+# USER MASTER RECORD
+
+Combination of different tabs such as (address tab, logon data tab, SNC, default, Parameters, Roles, Profiles, Groups, Personalization, License tab)called as User Master Record.
+
