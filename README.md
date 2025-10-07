@@ -12,7 +12,7 @@ SAP has multiple modules,and are divided into FUNCTIONAL MODULES and TECHNICAL M
 
 Functional modules deals with business process like finance,sales,hr and focus on business operations(What to do)
 
-Technical Modules in SAP deals with system,coding,security and customiation and focus on implementation and customization of system(How to do)
+Technical Modules in SAP deals with system,coding,security and customization and focus on implementation and customization of system(How to do)
 
 # FUNCTIONAL MODULES                                  
                                          
