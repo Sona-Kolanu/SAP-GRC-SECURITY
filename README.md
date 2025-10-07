@@ -10,6 +10,10 @@ It is an ERP (Enterprise,Resource,Planning) software used by organizations to ma
 
 SAP has multiple modules,and are divided into FUNCTIONAL MODULES and TECHNICAL MODULES
 
+Functional modules deals with business process like finance,sales,hr and focus on business operations(What to do)
+
+Technical Modules in SAP deals with system,coding,security and customiation and focus on implementation and customization of system(How to do)
+
 # FUNCTIONAL MODULES                                  
                                          
 1.FI(Finance Accounting)                         
@@ -43,6 +47,4 @@ SAP has multiple modules,and are divided into FUNCTIONAL MODULES and TECHNICAL M
 
 6.BI/BO
 
-----> Functional modules deals with business process like finance,sales,hr and focus on business operations(What to do)
 
-----> Technical Modules in SAP deals with system,coding,security and customiation and focus on implementation and customization of system(How to do)
