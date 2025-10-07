@@ -8,7 +8,7 @@ It is an ERP (Enterprise,Resource,Planning) software used by organizations to ma
 # ERP is a software concept or system which integrates all the business processess of an organization into one single system.
 SAP has multiple modules,and are divided into FUNCTIONAL MODULES and TECHNICAL MODULES
 
-# FUNCTIONAL MODULES                               # TECHNICAL MODULES
+# FUNCTIONAL MODULES                               #TECHNICAL MODULES
 1.FI(Finance Accounting)                           1.ABAP(Advance Business Application Programming)---Programming language of SAP
 2.CO(Controlling)                                  2.BASIS(Business Application Software Integrated Solution)
 3.MM(Material Management)                          3.Security---Roles,authorizations,user access
@@ -18,5 +18,5 @@ SAP has multiple modules,and are divided into FUNCTIONAL MODULES and TECHNICAL M
 7.HCM(Human Capital Management)
 8.PM(Plant Maintenance)
 
-# Functional modules deals with business process like finance,sales,hr and focus on business operations(What to do)
-# Technical Modules in SAP deals with system,coding,security and customiation and focus on implementation and customization of system(How to do)
+----> Functional modules deals with business process like finance,sales,hr and focus on business operations(What to do)
+----> Technical Modules in SAP deals with system,coding,security and customiation and focus on implementation and customization of system(How to do)
