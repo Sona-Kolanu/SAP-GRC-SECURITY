@@ -1,5 +1,7 @@
 # SUGR - User Group Maintenance
 
+SUGR tcode helps to organize users for easy maintenanance.Easy to search/filter users by user groups in SUIM reports.Without user groups system becomes messy,risk, and hard to control.
+
 We have 2 types of user groups functional wise and locational wise
 
 **FUNCTIONAL WISE (Module wise)**
