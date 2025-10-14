@@ -24,7 +24,7 @@ Reset password/Change password
 
 Combination of different tabs such as (documentation tab, address tab, logon data tab, SNC, default, Parameters, Roles, Profiles, Groups, Personalization, License tab)called as User Master Record.
 
-1.DOCUMENTATION TAB ---> We need to maintain document,It is used to store comments,notes or reason for user account action by using tickets,these tickets are raised by HR,Manager or end user themselves depending on the situation.
+**1.DOCUMENTATION TAB** ---> We need to maintain document,It is used to store comments,notes or reason for user account action by using tickets,these tickets are raised by HR,Manager or end user themselves depending on the situation.
 
 2.ADDRESS TAB ---> Stores personal information like firstname,lastname, mail id, function, department.
 
