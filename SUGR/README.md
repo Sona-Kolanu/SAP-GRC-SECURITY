@@ -22,10 +22,10 @@ EMP_IND
 
 Using SUGR,we can --
 
--Create a new user group
-
--Change existing user group
-
--Delete user group
-
--Display user group in SAP
+- Create a new user group
+  
+- Change existing user group
+  
+- Delete user group
+  
+- Display user group in SAP
