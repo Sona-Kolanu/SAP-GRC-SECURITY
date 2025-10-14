@@ -36,4 +36,4 @@ We have special user groups
 
 **2. SUPER** --> If a user is having extra access/authorizations to perform advanced tasks.
 
-**3. EXTERNAL** --> External users are not our company employees(contractors,vendors,consultants),they need temporary access to SAP project or suport work.We create a special group to separate them from employees.
+**3. EXTERNAL** --> External users are not our company employees(contractors,vendors,consultants),they need temporary access to SAP project or support work.We create a special group to separate them from employees.
