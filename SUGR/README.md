@@ -31,8 +31,9 @@ EMP_IND
 - Display user group in SAP
 
 We have special user groups
-*1. TERMINATE* --> It is for leavers (who are not working in our company)
 
-*2. SUPER* --> If a user is having extra access/authorizations to perform advanced tasks.
+**1. TERMINATE** --> It is for leavers (who are not working in our company)
 
-*3. EXTERNAL* --> External users are not our company employees(contractors,vendors,consultants),they need temporary access to SAP project or suport work.We create a special group to separate them from employees.
+**2. SUPER** --> If a user is having extra access/authorizations to perform advanced tasks.
+
+**3. EXTERNAL** --> External users are not our company employees(contractors,vendors,consultants),they need temporary access to SAP project or suport work.We create a special group to separate them from employees.
