@@ -50,6 +50,7 @@ Combination of different tabs such as (documentation tab, address tab, logon dat
 # Types of users in SAP
 
 **1.DIALOG (A)** --> Named persons/ All humans can called as a dialog type users.
+
 **Properties :**
                  1. Login is possible through SAP GUI
 
@@ -68,6 +69,7 @@ Combination of different tabs such as (documentation tab, address tab, logon dat
                  3. Used in internal system-to-system communication.
 
 **3. COMMUNICATION (C)** --> Used for external RFC connections
+
 **Properties :** 
                  1. Login is not possible through SAP GUI,Possible through RFC or external interface 
 
