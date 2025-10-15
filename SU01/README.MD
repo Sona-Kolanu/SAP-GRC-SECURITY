@@ -86,8 +86,10 @@ But if SAP GRC system wants to fetch data from SAP ECC → you’ll use a **SYST
 
 
 **4. SERVICE (S)** --> Emergency access purpose.It is a common user ID used by many people (shared login).
+
 **Properties :** 
-                 1.Login is possible through SAP GUI.
+                 
+                 1. Login is possible through SAP GUI.
 
                  2. Password is never expired(until manually changed).
 
