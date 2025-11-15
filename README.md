@@ -38,6 +38,20 @@ Org values
 
 Role Testing
 
+# Key Learnings
+
+1. End-to-end user administration
+
+2. Understanding authorization objects & org levels
+
+3. Role design concepts in PFCG
+
+4. Identifying SoD conflicts using GRC
+
+5. Firefighter ID (EAM) process understanding
+
+6. How security logs help in troubleshooting
+
 
 # SAP stands for System,Application and Products in data processing.
 
