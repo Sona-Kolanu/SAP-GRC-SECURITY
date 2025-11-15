@@ -1,7 +1,6 @@
 # GOVERNANCE,RISK and COMPLIANCE
 
 GRC means GOVERNANCE,RISK and COMPLIANCE.It is a system that helps a organization to manage its operations safely and legally by 
-
 controlling user access, monitering risks, and ensuring all business processess follow rules and regulations.
 
 **GRC APPLICATIONS**
@@ -20,7 +19,7 @@ Audit Management
 
 Fraud Management
 
-Our security relevant application is ACCESS CONTROL (AC),remaining applications are not required.
+Our security relevant application is ACCESS CONTROL (AC), remaining applications are not required.
 
 # SAP GRC AC
 
