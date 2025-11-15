@@ -10,6 +10,6 @@ SAP SECURITY ensures Confidentiality,Integrity and Availability (CIA) of busines
 
 4. AUTHORIZATION OBJECTS ---> Control access to specific actions
 
-5. TRANSACTION CODES(Tcodes) --- Shortcuts to business processes.
+5. TRANSACTION CODES (Tcodes) --- Shortcuts to business processes.
 
 
