@@ -1,5 +1,41 @@
 # SAP-GRC-SECURITY
-Practice repository for SAP GRC Security. Contains organized screenshots, notes, and outputs for key T-Codes (SU01, SU10, SUIM, SU53, etc.).
+This repository contains my practice notes, screenshots, exercises, and concepts related to SAP Security & GRC Access Control.
+I created this repository to organize my learning and to understand how various T-Codes, tables, roles, and authorization concepts work in real SAP systems.
+
+**What This Repository Covers**
+✔️ SAP Security Basics
+
+User Administration (SU01, SU10)
+
+Profile & Authorization Concepts
+
+SU53 Authorization Error Analysis
+
+Password Policies & Profile Parameters
+
+✔️ GRC Access Control Concepts
+
+Access Risk Analysis (ARA)
+
+Emergency Access Management (EAM / Firefighter)
+
+Access Request Management (ARM)
+
+Role Management
+
+GRC Tables & Configuration Overview
+
+✔️ Role Administration (PFCG)
+
+Single / Composite roles
+
+Menu creation
+
+Authorization object maintenance
+
+Org values
+
+Role Testing
 
 
 # SAP stands for System,Application and Products in data processing.
