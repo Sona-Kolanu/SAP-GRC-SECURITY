@@ -3,7 +3,8 @@ This repository contains my practice notes, screenshots, exercises, and concepts
 I created this repository to organize my learning and to understand how various T-Codes, tables, roles, and authorization concepts work in real SAP systems.
 
 **What This Repository Covers**
-✔️ SAP Security Basics
+
+**SAP Security Basics**
 
 User Administration (SU01, SU10)
 
@@ -13,7 +14,7 @@ SU53 Authorization Error Analysis
 
 Password Policies & Profile Parameters
 
-✔️ GRC Access Control Concepts
+**GRC Access Control Concepts**
 
 Access Risk Analysis (ARA)
 
@@ -25,7 +26,7 @@ Role Management
 
 GRC Tables & Configuration Overview
 
-✔️ Role Administration (PFCG)
+**Role Administration (PFCG)**
 
 Single / Composite roles
 
