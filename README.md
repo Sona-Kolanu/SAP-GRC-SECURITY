@@ -2,7 +2,7 @@
 This repository contains my practice notes, screenshots, exercises, and concepts related to SAP Security & GRC Access Control.
 I created this repository to organize my learning and to understand how various T-Codes, tables, roles, and authorization concepts work in real SAP systems.
 
-**What This Repository Covers**
+# What This Repository Covers
 
 **SAP Security Basics**
 
